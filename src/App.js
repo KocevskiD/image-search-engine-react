@@ -11,7 +11,6 @@ function App() {
 
     setImages(result);
   };
-
   return (
     <div>
       <SearchBar onSubmit={handleSubmit} />

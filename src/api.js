@@ -8,8 +8,6 @@ const searchImages = async (term) => {
             query: term
         }
     })
-    
     return response.data.results;
 }
-
 export default searchImages;

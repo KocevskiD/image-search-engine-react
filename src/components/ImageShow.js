@@ -5,6 +5,6 @@ function ImageShow({ image }) {
       </div>
     );
   }
-  
+
   export default ImageShow;
   
